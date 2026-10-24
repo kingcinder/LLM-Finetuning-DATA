@@ -1,0 +1,795 @@
+{
+  "batch_id": "chatgpt-stratified-150-followup-part14-50-v1-20261023",
+  "verdicts": [
+    {
+      "passage_id": "5480ffa34f7d858de8cfac4dc30ece406ae768697a3063ef84c3b4a51867db9b",
+      "source_id": "op:3177665",
+      "label": "BACKGROUND",
+      "speaker": "party",
+      "direction": "none",
+      "confidence": 0.5,
+      "evidence": "The State contends that a court measures the sufficiency of statutorily",
+      "rationale": "Primarily introduces the State’s statutory-warning argument without the appellate court’s answer.",
+      "rejected_alternatives": [
+        "STANDARD_OF_REVIEW",
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": [
+        "The target also contains procedural history and two review standards."
+      ]
+    },
+    {
+      "passage_id": "fc617306015a0f9a42ce6eb92a67e87efd1304ab7929e3958ab46998ee03d396",
+      "source_id": "op:4702162",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 0.75,
+      "evidence": "The two provisions are instead complimentary.",
+      "rationale": "Determines the provisions complement each other, rejecting the City’s asserted supersession.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": [
+        "The next determination begins but is incomplete within the target."
+      ]
+    },
+    {
+      "passage_id": "0a5c29a86c0133c39423b87b20e02b846b0cea3968cfc4a648172ca27c42c923",
+      "source_id": "op:4025499",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "Sufficient evidence supported the jury verdict.",
+      "rationale": "Explicitly upholds evidentiary sufficiency for witness tampering before introducing other challenges.",
+      "rejected_alternatives": [
+        "ANALYSIS",
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "e6617eccdf77cd125925dff419d5150ec972c5388b00cd8e165bb271953c6154",
+      "source_id": "op:11269253",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Veristone moved for summary judgment on its claim on May 8, 2024",
+      "rationale": "Recounts service, a summary judgment motion, and documents submitted in its support.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "db7c1420ff51cc544ee48e9c46c940ee0a1f8c783f50ca519bf7067014ca68e8",
+      "source_id": "op:2646208",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 0.75,
+      "evidence": "and deny Dr. Wright's request for attorney",
+      "rationale": "Expressly denies appellate attorney fees before recounting dissolution proceedings.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY",
+        "ORDER"
+      ],
+      "ambiguities": [
+        "The opening also completes a disposition begun in the preceding context."
+      ]
+    },
+    {
+      "passage_id": "cc990a058d688bf0ed9ed284a3d0d08d7ad2c83b4f607a7ea3c6f9846247ab96",
+      "source_id": "op:2814753",
+      "label": "BACKGROUND",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "To calculate\n\nattorney fees, courts use the lodestar method",
+      "rationale": "Explains fee entitlement and lodestar calculation after introducing the cross appeal.",
+      "rejected_alternatives": [
+        "STANDARD_OF_REVIEW",
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": [
+        "The opening fragment completes an earlier affirmance outside this target."
+      ]
+    },
+    {
+      "passage_id": "e783a1a2acc57673c0136dc20227cb858e8841e0b41635cc267eaa3ad281d19c",
+      "source_id": "op:4059261",
+      "label": "ORDER",
+      "speaker": "present_appellate_court",
+      "direction": "affirms",
+      "confidence": 1,
+      "evidence": "We affirm his convictions for possession of a stolen vehicle",
+      "rationale": "Operatively affirms the listed convictions in the conclusion.",
+      "rejected_alternatives": [
+        "HOLDING"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "5def13b8fab91958918cc6448f81215e39f1b4addf4663c788c56401e992f3f7",
+      "source_id": "op:4519901",
+      "label": "ORDER",
+      "speaker": "present_appellate_court",
+      "direction": "affirms",
+      "confidence": 1,
+      "evidence": "We otherwise affirm the judgment and sentence.",
+      "rationale": "States the residual affirmance and routine publication directions.",
+      "rejected_alternatives": [
+        "HOLDING",
+        "OTHER"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "4cc09c562c0e3eeffbc9e91cf6505db446c19bf407c593ec6d0697a1b212d6a0",
+      "source_id": "op:11265850",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "counsel claim because Olson cannot show prejudice.",
+      "rationale": "Determines the ineffective-assistance claim fails for lack of prejudice.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": [
+        "The rejection begins in the preceding context."
+      ]
+    },
+    {
+      "passage_id": "4589fc806b75b41410131295567ddcb88dd1235d6dff5ea5d5813fd8b11e5c03",
+      "source_id": "op:4567494",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Reiner also filed a civil suit against Child.",
+      "rationale": "Recounts the criminal restitution and civil judgment proceedings and stipulated payment arrangements.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "6f8933f5708a8b603cf762583c16b29ac06e07131fd0ff20caa03e669bea3cc0",
+      "source_id": "op:1041050",
+      "label": "STANDARD_OF_REVIEW",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "review the entire matter de novo.",
+      "rationale": "States de novo review and the favorable-evidence perspective for cross motions.",
+      "rejected_alternatives": [],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "f13ba04b4568a68b10a4fb804317c5b26228a8f29c47eff421e9e0c79765439a",
+      "source_id": "op:4641497",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "accepts",
+      "confidence": 0.75,
+      "evidence": "issues and is so devoid of merit there is no possibility of reversal.",
+      "rationale": "Determines the appeal lacks merit and begins granting the requested fee sanctions.",
+      "rejected_alternatives": [
+        "ORDER",
+        "ANALYSIS"
+      ],
+      "ambiguities": [
+        "Both the frivolousness finding and fee grant cross the target boundaries."
+      ]
+    },
+    {
+      "passage_id": "2fab9ef3889e8862bd1a15dd7040e681dcf0fc0832cdbaece9ce19cebe9f89ae",
+      "source_id": "op:4995032",
+      "label": "STANDARD_OF_REVIEW",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "our review is limited to",
+      "rationale": "States substantial-evidence review and deference in reviewing termination findings.",
+      "rejected_alternatives": [
+        "BACKGROUND"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "fb3015b0a403676ddb1e9e1a97aac84911ba3692bd23f65a7666df0f72ce81d7",
+      "source_id": "op:4031570",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "accepts",
+      "confidence": 0.75,
+      "evidence": "All documents dealt with the same subject matter: sale of the",
+      "rationale": "Determines the note and separate agreements formed one transaction under the cited statute.",
+      "rejected_alternatives": [
+        "ANALYSIS",
+        "BACKGROUND"
+      ],
+      "ambiguities": [
+        "The ultimate defense to enforcement is resolved after this target."
+      ]
+    },
+    {
+      "passage_id": "8855c7ff848620b8a703db95f10c2910c90cb3d651fe7fd3cd2e034ce6056a39",
+      "source_id": "op:3217289",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "abuse its discretion by requiring Lewis to submit a DNA sample",
+      "rationale": "Upholds the DNA-fee rationale and the requirement to provide a DNA sample.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "c0e4eb5c10dd1cc98aaae8efd1202f3b89863123448397c3906bbc3000146818",
+      "source_id": "op:11071981",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "accepts",
+      "confidence": 1,
+      "evidence": "substantial evidence that the parties in good faith, manifested",
+      "rationale": "Finds evidentiary support for mutual recognition and the required duration of the boundary.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "1a3dbc986cc4a0e9624b5296b04b576ef4ff7b0130343bcda6a1803476f6df18",
+      "source_id": "op:4445020",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Mr.\n\nSchroeder filed a motion to suppress the evidence of intoxication",
+      "rationale": "Recounts charges, the suppression hearing, arguments, and the trial court’s ruling.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "59a75895edfc40a4471eab0ce92a16dd92cbbd7600614d15eb17aba672dd3276",
+      "source_id": "op:2781645",
+      "label": "ORDER",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "and remand   for resentencing.",
+      "rationale": "Directs resentencing as part of the disposition of the harassment convictions.",
+      "rejected_alternatives": [
+        "HOLDING"
+      ],
+      "ambiguities": [
+        "A separate holding about resentencing begins but is not completed in the target."
+      ]
+    },
+    {
+      "passage_id": "bea8c9b27220a0605355a274fd50706613320af5a91a3edf31c390a6694f1229",
+      "source_id": "op:11104467",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "Imposition of this community custody condition was\n\nnot an abuse its discretion.",
+      "rationale": "Rejects the intimate-association challenge to the community custody condition.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "4273b7e7b22cc81fe798e210dcb928fb0895cc6c84a760a7bfe3ff7b3e65f193",
+      "source_id": "op:4214244",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "the Meinharts were stopped at an intersection when Anaya’s car",
+      "rationale": "Primarily narrates the collision, injuries, and treatment underlying the damages action.",
+      "rejected_alternatives": [
+        "ORDER",
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": [
+        "The opening fragment completes the preceding remand directive."
+      ]
+    },
+    {
+      "passage_id": "e2f28964e28efbf1315bf5bfa2347dbabc66819a2c0c08efa23e092b29420e8b",
+      "source_id": "op:2746090",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "Mr. Nichols fails to show an abuse of discretion",
+      "rationale": "Upholds admission of the recorded call and alternatively determines any error harmless.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "be5a4ff475eb6be738156c7d1b4af0e3773ef1d6b28d4064529c66cdd9a6d0dd",
+      "source_id": "op:3191200",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "We disagree with Dillon and Derrick's interpretation of parental immunity.",
+      "rationale": "Expressly rejects the proposed interpretation of parental immunity.",
+      "rejected_alternatives": [],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "1e6593be3938017a62304568435d4574d2e521393ee08b77d5d6c4ef343623c2",
+      "source_id": "op:10770005",
+      "label": "BACKGROUND",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Due process requires a fair trial.",
+      "rationale": "Sets out unbiased-jury principles and cited precedent on racial-bias hearings.",
+      "rejected_alternatives": [
+        "HOLDING"
+      ],
+      "ambiguities": [
+        "The current court’s answers to waiver and the prima facie showing follow the target."
+      ]
+    },
+    {
+      "passage_id": "bc17448b6c0b693ed2dc6885d8793bd59bbf7f7e6a84b98081d3b4f7ef6da9ec",
+      "source_id": "op:9898440",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "The jury convicted\n\nNewson of first degree burglary",
+      "rationale": "Recounts medical testimony, charges, trial rulings, convictions, and merger.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": [
+        "The first paragraph narrates medical examinations and injuries."
+      ]
+    },
+    {
+      "passage_id": "084cc5eddea0ca6c186a862e4ea1e4825804c80e7835986f0976244d161c35be",
+      "source_id": "op:9954362",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "Finding no error, we\n\naffirm.",
+      "rationale": "Explicitly rejects the factual and sufficiency challenges before recounting the incident.",
+      "rejected_alternatives": [
+        "FACTS",
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "6defed1c49fcbda6b3d73290709aa92b38b48243b0d80bb0553faa6fdf702093",
+      "source_id": "op:11262342",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "lower_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "The Court finds that Shann Webley is awarded the sum of $63,563.91",
+      "rationale": "Primarily reproduces the trial court’s property award, followed by reconsideration and appeal.",
+      "rejected_alternatives": [
+        "FACTS",
+        "HOLDING"
+      ],
+      "ambiguities": [
+        "Quoted trial findings dominate; the appellate narrator resumes afterward."
+      ]
+    },
+    {
+      "passage_id": "c4f2f1c133aec0f91a4fdb0f34f47e583be021d1d3701c1bdc9a4db9d097209e",
+      "source_id": "op:3177671",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "refuses_review",
+      "confidence": 0.75,
+      "evidence": "we conclude the award of 2012 salary",
+      "rationale": "Determines the salary and related awards are uncontested because no appellate challenge was made.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": [
+        "The sentence’s predicate is completed in the following context."
+      ]
+    },
+    {
+      "passage_id": "d6c48c425367cf6a073d694079bcff631f2a2c660c7e37f02a96b110cf8f464e",
+      "source_id": "op:2646379",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "the trial court correctly concluded that it was not relevant.",
+      "rationale": "Upholds exclusion during the prosecution case for lack of a self-defense foundation.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "1f28ce822ba2bdf20f0563bfcc1240352a0fb2bc40a7dc810c82cbc8f104cb2b",
+      "source_id": "op:4413047",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "substantial evidence supported the hearing examiner's finding.",
+      "rationale": "Upholds the finding concerning removal of tree crowns.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "6e06b21c6c5d45f827f7ec081b624b4168baee70c29eb294840556de2a9b6327",
+      "source_id": "op:4312148",
+      "label": "STANDARD_OF_REVIEW",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.5,
+      "evidence": "Our review ofthe Board's final order is governed by the APA.",
+      "rationale": "States the statutory bases for appellate reversal after identifying the review history and issue.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY",
+        "BACKGROUND"
+      ],
+      "ambiguities": [
+        "Procedural history and issue framing occupy comparable space."
+      ]
+    },
+    {
+      "passage_id": "a12e65456b26de9c4c9b599ab2cc12010747cec641b4806728ed2b5b89f4d776",
+      "source_id": "op:4457836",
+      "label": "BACKGROUND",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "The prevailing party is generally the one who receives an affirmative judgment",
+      "rationale": "Defines prevailing-party status and introduces the standard for reviewing fee determinations.",
+      "rejected_alternatives": [
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "b674e6b975e28b96d5175cef8679c444c3e779d60f89c17294e3e61ed04f7fcb",
+      "source_id": "op:2813011",
+      "label": "ANALYSIS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "Schroeder. however, is not analogous.",
+      "rationale": "Distinguishes the cited foreclosure precedent without completing resolution of the requested relief.",
+      "rejected_alternatives": [
+        "BACKGROUND",
+        "HOLDING"
+      ],
+      "ambiguities": [
+        "Much of the target quotes the precedent being distinguished."
+      ]
+    },
+    {
+      "passage_id": "7fb086095099bf667efb92ef1a7a1225697f4f70997dcabefac82d919d8c72e6",
+      "source_id": "op:1041048",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "Kercher demonstrates no error,",
+      "rationale": "Expressly rejects the preserved challenges to the conviction.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY",
+        "OTHER"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "823d0dffda2ddcfc3308245416faa4e56abbf8a57695c43fabf24182a1198619",
+      "source_id": "op:2758391",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "The imposition of\n\nrestrictions is supported by substantial evidence.",
+      "rationale": "Upholds the parenting restrictions and finds no abuse of discretion.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "f961e8d5d5470bc32d5d82a6951e686763b12de1e74b1d26970942ca63268541",
+      "source_id": "op:10594645",
+      "label": "BACKGROUND",
+      "speaker": "party",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "Smith argues that the trial court erred by dismissing his complaint",
+      "rationale": "Introduces the appellant’s discovery-sanction and attorney-fee challenges without an appellate answer.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": [
+        "The current court’s disagreement appears only after the target."
+      ]
+    },
+    {
+      "passage_id": "0c14028cf4a3e66ff20d47227a69b68f7fa81ee1115a48a5dcbcb4f3a0686580",
+      "source_id": "op:10840355",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "accepts",
+      "confidence": 1,
+      "evidence": "the trial court did not have the authority to impose",
+      "rationale": "Determines the community custody component lacked statutory authorization.",
+      "rejected_alternatives": [
+        "ANALYSIS",
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "25b9369caf5eb0667ac706a762b38ef7fcb8085032637d92749828a48c24f031",
+      "source_id": "op:11404209",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "We conclude they are not. Accordingly, we affirm.",
+      "rationale": "Answers that mental-health alternative sentencing does not require confinement on the deadly-weapon enhancement.",
+      "rejected_alternatives": [
+        "ORDER"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "3dd9c46db72e42cc0b8361a88e9376bb5da8ac220bbd24f2ae315ae8b8c9b0d2",
+      "source_id": "op:2763615",
+      "label": "BACKGROUND",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Actual bias is",
+      "rationale": "Defines actual juror bias and the trial judge’s dismissal responsibilities.",
+      "rejected_alternatives": [
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "1e152e23eccd19edf52086c67a328f1f33fc40e979dcbf05f800d664fae47a91",
+      "source_id": "op:9898282",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "accepts",
+      "confidence": 1,
+      "evidence": "SUMMARY JUDGMENT WAS INAPPROPRIATE ON THIS RECORD",
+      "rationale": "Explicitly determines summary judgment improper and identifies the missing showing of subjective risk appreciation.",
+      "rejected_alternatives": [
+        "ANALYSIS",
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "753eebfc289891da08fb1467730402a6b05c4f8a4293068dbb90e1e8fa68359f",
+      "source_id": "op:9906812",
+      "label": "BACKGROUND",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.5,
+      "evidence": "the CVPA is no longer authorized for indigent defendants.",
+      "rationale": "Introduces the statutory amendment and direct-appeal applicability after recounting the sentence.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY",
+        "ANALYSIS"
+      ],
+      "ambiguities": [
+        "The target is divided between procedural history and governing law."
+      ]
+    },
+    {
+      "passage_id": "973fcd5e8ead5f95ad3895bec42056f77a5e2528777bdfb5243d938f9342c61c",
+      "source_id": "op:6323147",
+      "label": "STANDARD_OF_REVIEW",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Appellate review is limited to determining whether substantial evidence",
+      "rationale": "States the evidentiary review standard, required proof, and specificity of findings.",
+      "rejected_alternatives": [
+        "BACKGROUND",
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "35b6618fc692ffd0ce889aef08476334c713babfa06732b312c19ba8978b39a5",
+      "source_id": "op:4580620",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 0.75,
+      "evidence": "we conclude it had an adequate opportunity to present its argument",
+      "rationale": "Determines Ten Bridges had an adequate opportunity to argue, rejecting its procedural objection.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": [
+        "The object of the determination continues in the following context."
+      ]
+    },
+    {
+      "passage_id": "200b3adac5dd2c467720bf55c67437a8d3f9a6d21a8b975cf92e2ece1ccc585d",
+      "source_id": "op:4389519",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "refuses_review",
+      "confidence": 1,
+      "evidence": "he waived any alleged error by failing to",
+      "rationale": "Finds no violation of the limine ruling and holds the alternative evidentiary objection waived.",
+      "rejected_alternatives": [
+        "ANALYSIS",
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "5db2afd3b667f24ee875e48c9795f8a049b5fd613da0668e7fa00a8ad9a3f3f3",
+      "source_id": "op:2806385",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "Sufficient evidence supports the conviction of unlawful",
+      "rationale": "Upholds sufficiency of the unlawful-imprisonment conviction before introducing the instruction challenge.",
+      "rejected_alternatives": [
+        "ANALYSIS",
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "656de36fb82e39271ad23564e4fba44c5dfc580c2af72c21fb3fdee4dde82a8d",
+      "source_id": "op:11265265",
+      "label": "STANDARD_OF_REVIEW",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "Bianchi bears\n\nthe burden of proving that the ISRB abused its discretion.",
+      "rationale": "Explains the unlawful-restraint threshold and abuse-of-discretion review of parole decisions.",
+      "rejected_alternatives": [
+        "BACKGROUND",
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "c9089f1f054572a3a2343bb50369716511f68572c903dd28af945114723f6821",
+      "source_id": "op:5124315",
+      "label": "BACKGROUND",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Only limited issues may be raised in the unlawful detainer action",
+      "rationale": "Explains foreclosure waiver and possession rules before introducing appellate review standards.",
+      "rejected_alternatives": [
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "d2c7d671992ef6e829badc01c6dcdfa1a36a6d46c684acdfc8838656e7c2a209",
+      "source_id": "op:4152442",
+      "label": "ORDER",
+      "speaker": "present_appellate_court",
+      "direction": "affirms",
+      "confidence": 1,
+      "evidence": "Accordingly, we affirm the superior court’s denial of Rouse’s",
+      "rationale": "Operatively affirms denial of the postconviction jurisdictional motion.",
+      "rejected_alternatives": [
+        "HOLDING"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "82bf7d8dc427fb2900158b1233a15bdb509c489a1b0f363930bf0b71e1ca12f4",
+      "source_id": "op:10805661",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "the trial court did not err in denying Wallin’s CR 12(b)(6) motion",
+      "rationale": "Expressly upholds denial of the motion to dismiss DOC’s counterclaim.",
+      "rejected_alternatives": [],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "1f68fbb4bfea2da4bbe4d3de4bbb984c4b4f883478eca4769927b4b4233c7ec5",
+      "source_id": "op:11265749",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "this argument also fails.",
+      "rationale": "Rejects the sufficiency challenge and determines the friendly greeting did not justify self-defense.",
+      "rejected_alternatives": [
+        "ANALYSIS",
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "3d66ef9d787564a4ab8633a22af143579573384346a5deab911fa462e1d04ddf",
+      "source_id": "op:4652879",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "accepts",
+      "confidence": 1,
+      "evidence": "We accept the\n\nState’s concession",
+      "rationale": "Accepts the concession that the challenged financial obligations must be stricken and directs remand.",
+      "rejected_alternatives": [
+        "ORDER",
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    }
+  ],
+  "summary": {
+    "per_label": {
+      "HOLDING": {
+        "count": 26,
+        "passage_text_tokens_qwen25": 8309
+      },
+      "ANALYSIS": {
+        "count": 1,
+        "passage_text_tokens_qwen25": 533
+      },
+      "ORDER": {
+        "count": 4,
+        "passage_text_tokens_qwen25": 170
+      },
+      "FACTS": {
+        "count": 1,
+        "passage_text_tokens_qwen25": 246
+      },
+      "BACKGROUND": {
+        "count": 8,
+        "passage_text_tokens_qwen25": 2698
+      },
+      "PROCEDURAL_HISTORY": {
+        "count": 5,
+        "passage_text_tokens_qwen25": 1811
+      },
+      "STANDARD_OF_REVIEW": {
+        "count": 5,
+        "passage_text_tokens_qwen25": 2024
+      },
+      "OTHER": {
+        "count": 0,
+        "passage_text_tokens_qwen25": 0
+      }
+    },
+    "total_records": 50,
+    "total_passage_text_tokens_qwen25": 15791
+  }
+}
