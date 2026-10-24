@@ -1,0 +1,345 @@
+{
+  "batch_id": "chatgpt-stratified-150-followup-tail20-v1-20261024",
+  "verdicts": [
+    {
+      "passage_id": "4519eda27913a4c421222ef815fde3a4718209f5f43d6312ed63f9fc6b9deb7a",
+      "source_id": "op:4160810",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 0.75,
+      "evidence": "the trial court followed the supreme court's instruction in considering",
+      "rationale": "Determines the sentencing court complied with the requirement to consider O’Dell’s youth.",
+      "rejected_alternatives": [
+        "ANALYSIS",
+        "BACKGROUND"
+      ],
+      "ambiguities": [
+        "The target also explains precedent and begins detailing the sentencing court’s reasoning."
+      ]
+    },
+    {
+      "passage_id": "e41a677a9ef24751c4f9bbd578e3beac531e660f2d7280779dfc56cbfca23ede",
+      "source_id": "op:3195318",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 0.75,
+      "evidence": "we conclude that there was sufficient probable cause",
+      "rationale": "Explicitly finds sufficient probable cause for the order authorizing the exterior search.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": [
+        "The object of the probable-cause determination continues after the target."
+      ]
+    },
+    {
+      "passage_id": "14dd69d2d79c19eed4f1c8b9735e0b76a1e896d5e150f52f4acbe3d3aff8d2fa",
+      "source_id": "op:11265123",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "King County filed a complaint for unlawful detainer",
+      "rationale": "Recounts condemnation review, eviction filings, defenses, and relocation negotiations.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "6425745d13cd283250ac55ee4b499298dcd82b7c5d163d045819359204942d63",
+      "source_id": "op:4036520",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "Zamora had a psychotic episode and went on a shooting",
+      "rationale": "Introduces Zamora’s confinement, release, and subsequent shootings before describing the victims’ lawsuit.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": [
+        "The latter portion recounts the lawsuit and its negligence allegations."
+      ]
+    },
+    {
+      "passage_id": "3b137b58bec77d87faff4aa2bfee4ff9a62e626860a04e379e6b7a348d99e750",
+      "source_id": "op:4020504",
+      "label": "BACKGROUND",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.5,
+      "evidence": "The right to a lesser included offense instruction is statutory",
+      "rationale": "Primarily introduces the statutory instruction right and Workman test after recounting the trial ruling and appeal.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY",
+        "FACTS"
+      ],
+      "ambiguities": [
+        "The passage is closely divided between procedural history and governing law."
+      ]
+    },
+    {
+      "passage_id": "734f3add91dedd3a01a0bac5140018ec0df3f5c25a134dee5d2381bd428051db",
+      "source_id": "op:4697323",
+      "label": "STANDARD_OF_REVIEW",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.5,
+      "evidence": "A trial court’s interpretation of an evidentiary rule is a question of law",
+      "rationale": "States de novo interpretation and discretionary admission standards after introducing the evidentiary challenge.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY",
+        "FACTS"
+      ],
+      "ambiguities": [
+        "The opening recounts disclosure, amended charges, and conviction."
+      ]
+    },
+    {
+      "passage_id": "ee63829290fb4bf5f4261734fc4f3b1c06c9982884e5e927a2118ab577344532",
+      "source_id": "op:9898477",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "Accordingly, we deny both parties’ requests for fees on",
+      "rationale": "Expressly denies both parties’ appellate attorney-fee requests.",
+      "rejected_alternatives": [
+        "ORDER"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "81b30f6e76fedfcfd7b7380457905823ad1f471fafe3058538ac6ec2e40c2a57",
+      "source_id": "op:11313046",
+      "label": "BACKGROUND",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "We need not consider arguments that a party does not support with",
+      "rationale": "Explains procedural obligations for self-represented litigants and adequately supported appellate arguments.",
+      "rejected_alternatives": [
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "9f3f815c0d8cb799edd2aab9f80531e0ea050957d5b31a10b58ed111273d6522",
+      "source_id": "op:11253318",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "remedied in the near future was supported by substantial evidence.",
+      "rationale": "Upholds the finding that the father’s parenting deficiencies were unlikely to be remedied soon.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "0310edc1e82767fbb7bbf7dd53bc037aa2a3cb6b02672573dcbcb5e271d5989c",
+      "source_id": "op:2784360",
+      "label": "STANDARD_OF_REVIEW",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.5,
+      "evidence": "We review conclusions of law de novo.",
+      "rationale": "Sets suppression review standards before introducing constitutional privacy principles.",
+      "rejected_alternatives": [
+        "BACKGROUND"
+      ],
+      "ambiguities": [
+        "Review standards and cell-phone privacy background occupy comparable portions."
+      ]
+    },
+    {
+      "passage_id": "8268da0560d795a07cb546584e1136573e96ec0e6ab09967c489ca904f43d715",
+      "source_id": "op:11265926",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 0.75,
+      "evidence": "the resulting description of events in the Board’s order fits the definition of abuse",
+      "rationale": "Determines the established findings satisfy the definition of abuse and treats unchallenged findings as verities.",
+      "rejected_alternatives": [
+        "ANALYSIS",
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": [
+        "The statutory reference completing the abuse determination follows the target."
+      ]
+    },
+    {
+      "passage_id": "31b52bce05ca020f06cc43aa83c5d7996aa99474f01bf281f5a6f31961e75fb7",
+      "source_id": "op:2647795",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "preserves",
+      "confidence": 0.75,
+      "evidence": "We disagree.",
+      "rationale": "Rejects the contention that Waid lacks a right to appeal the disbursement order.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": [
+        "The appealability reasoning and explicit rule application appear after the target."
+      ]
+    },
+    {
+      "passage_id": "d09780ed710ebc188b038092f3f34612f57d469e6bc9a3bab57f11214b3a1819",
+      "source_id": "op:3186450",
+      "label": "BACKGROUND",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Severance is waived by failure to renew the motion.",
+      "rationale": "Explains ineffective-assistance elements and the procedural rules governing severance preservation.",
+      "rejected_alternatives": [
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "499c9cedc83f53682c9cd0e86d2754358f02e1e4eb8f97f894470e70f0e9bbfc",
+      "source_id": "op:4668326",
+      "label": "ANALYSIS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "Contrary to Evans’ argument, the ISRB did note Evans’ progress.",
+      "rationale": "Evaluates the Board’s treatment of evidence and positive factors before discussing a comparison precedent.",
+      "rejected_alternatives": [
+        "HOLDING",
+        "BACKGROUND"
+      ],
+      "ambiguities": [
+        "The target rebuts a factual premise before resolving the overall abuse-of-discretion claim."
+      ]
+    },
+    {
+      "passage_id": "c0d081f0c6bffd768e34c94e85c47c79835942d06c15d16ba060f0dd71e62f64",
+      "source_id": "op:4553187",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "refuses_review",
+      "confidence": 1,
+      "evidence": "denying reconsideration does not meet the requirements of RAP 2.2(a)(3) and is not appealable.",
+      "rationale": "Determines the reconsideration order is not appealable as of right and distinguishes the cited precedent.",
+      "rejected_alternatives": [
+        "ANALYSIS",
+        "BACKGROUND"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "882934d0280e1579820f22d8e8080f8cea79c8a12e1df02ca4442e2dfcb31f08",
+      "source_id": "op:4147860",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "\"uninsured medical expenses\" unambiguously includes the costs Kaiser declined to",
+      "rationale": "Determines the disputed medical costs fall within uninsured medical expenses and rejects Victor’s narrower interpretation.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "ab8b9c8670d257e30265b6a0dfc14317f5b523e3df289b8c56fcef4c3c91d976",
+      "source_id": "op:11265646",
+      "label": "BACKGROUND",
+      "speaker": "party",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "arguing the County’s motion should have been dismissed",
+      "rationale": "States Allphin’s asserted procedural error rather than the appellate court’s determination.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": [
+        "The fragment completes the preceding sentence describing the grounds of appeal."
+      ]
+    },
+    {
+      "passage_id": "6b13a2ed7fd4763b8dea5b30b9edf0e34daff283c3bc18b71dad74018437a855",
+      "source_id": "op:11453708",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "the State produced some\n\ncredible evidence from which a jury could reasonably determine",
+      "rationale": "Finds evidence sufficient to permit a jury to conclude Ault provoked the altercation.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "65ebe001a98343859af4b6e4eb83a102017c17f1535192ed9f9a653e15fec78b",
+      "source_id": "op:3194195",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "On August 15, 2011, Serena Ford and Nicholas Allemand traveled",
+      "rationale": "Narrates relationships, travel, and events preceding the burglary and theft.",
+      "rejected_alternatives": [],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "3570ae0003bced1077854c2da9726700cca6ce5404eab4e2d97b280bae942bae",
+      "source_id": "op:11269889",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Blackburn was outside for approximately “half an hour by herself,”",
+      "rationale": "Narrates the search, freedom of movement, dog alert, and statements concerning access to the safe.",
+      "rejected_alternatives": [],
+      "ambiguities": []
+    }
+  ],
+  "summary": {
+    "per_label": {
+      "HOLDING": {
+        "count": 9,
+        "passage_text_tokens_qwen25": 2820
+      },
+      "ANALYSIS": {
+        "count": 1,
+        "passage_text_tokens_qwen25": 506
+      },
+      "ORDER": {
+        "count": 0,
+        "passage_text_tokens_qwen25": 0
+      },
+      "FACTS": {
+        "count": 3,
+        "passage_text_tokens_qwen25": 1094
+      },
+      "BACKGROUND": {
+        "count": 4,
+        "passage_text_tokens_qwen25": 1260
+      },
+      "PROCEDURAL_HISTORY": {
+        "count": 1,
+        "passage_text_tokens_qwen25": 534
+      },
+      "STANDARD_OF_REVIEW": {
+        "count": 2,
+        "passage_text_tokens_qwen25": 1009
+      },
+      "OTHER": {
+        "count": 0,
+        "passage_text_tokens_qwen25": 0
+      }
+    },
+    "total_records": 20,
+    "total_passage_text_tokens_qwen25": 7223
+  }
+}
