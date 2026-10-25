@@ -1,0 +1,743 @@
+{
+  "batch_id": "chatgpt-stratified-continuation-part14-50-v1-20261025",
+  "verdicts": [
+    {
+      "passage_id": "6435251952d4ba87faa7d7869a8e8825fe8097407822c8a37fe92e11438154ad",
+      "source_id": "op:2715397",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "The facts are drawn most favorably for Cathleen Le Caire",
+      "rationale": "Recounts the dental procedure, resulting symptoms, and malpractice allegations.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "019f4292140a5c748c5700deb075d47c451243cf0beed885915e527f335fd1a2",
+      "source_id": "op:4244449",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "affirms",
+      "confidence": 1,
+      "evidence": "we affirm.",
+      "rationale": "Concludes the court has jurisdiction and affirms.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "23f3b711f1e84e9ec7a6d17d750e259130548d5f912e9887388244b8440ec456",
+      "source_id": "op:2652072",
+      "label": "ANALYSIS",
+      "speaker": "party",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "Lake Whatcom Railway raises four issues.",
+      "rationale": "Introduces the railway’s appellate arguments and the challenged interim order.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "f1b32516745867f27f0a4b1c1812882bfef1e49b74d3bde3dbabc0fd8f4d0ef9",
+      "source_id": "op:4995029",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "On April 15, 2019, Major made a public disclosure request",
+      "rationale": "Recounts the records request and subsequent motion for a new trial.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "247eadaacb418ececdb4a712ef3fe81a3bd306ca4b1a7892af338a742dc719de",
+      "source_id": "op:2765497",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "One night, her ex- boyfriend",
+      "rationale": "Describes the incidents underlying Suong’s charges.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "39230660d1adb6359c776ea2a88bef588ae321c22d70cc1cd49a0e349d38873e",
+      "source_id": "op:2715060",
+      "label": "STANDARD_OF_REVIEW",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "We review Knapstad rulings de novo.",
+      "rationale": "States the standard and procedural framework for Knapstad motions.",
+      "rejected_alternatives": [
+        "BACKGROUND"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "42a608dcb159e032f792a250f55b91a672c7b5e8b3004b7f704d0d488ab0aad9",
+      "source_id": "op:11265257",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "affirms",
+      "confidence": 1,
+      "evidence": "Carrell is not entitled to reasonable attorney fees.",
+      "rationale": "Resolves the fee issue and affirms.",
+      "rejected_alternatives": [
+        "ORDER"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "72e37278517f94be98942400c399b1b203f4854218db349c5ed066cb63a29d6e",
+      "source_id": "op:2652451",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "Because the recording violated the privacy act,",
+      "rationale": "Concludes the recording violated the Privacy Act and should have been suppressed.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "0a93f5f538eeede11e74b89adec5bb5ea85e3078c4a2ca7bc753129e69198193",
+      "source_id": "op:11436820",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "Following a two-day bench trial",
+      "rationale": "Summarizes the quiet-title judgment and timing of the appeal.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "23425103fa3da84467b8078fc154040bc9edc6dc48e908d0c9b5fded2f28dbf6",
+      "source_id": "op:4254984",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "denied FutureSelect's motion to modify.",
+      "rationale": "Recounts the interlocutory appeal and petition for review.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "a64ad14c7951e2879bd2ef168b782e0f9439b0d22ed7109b99bdc08c4a5efb0d",
+      "source_id": "op:10837128",
+      "label": "BACKGROUND",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "The adjudicative proceeding process",
+      "rationale": "Explains the statutory process for contesting a founded DCYF report.",
+      "rejected_alternatives": [
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "b1c0a16bcd8cd3a202b4bd77cdbf07f73f3f32f1d46c664c8604ee6fd3936c43",
+      "source_id": "op:987492",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "accepts",
+      "confidence": 0.75,
+      "evidence": "We agree with the Licensees",
+      "rationale": "Accepts the Licensees’ position that a factual determination is required.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "cc4249daf2fe3ab42b785eb46d6f52c177116e5fd3bdff5b467a921a42b6ccda",
+      "source_id": "op:2772258",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "Worthington sued for relief under the PRA",
+      "rationale": "Recounts the request, agency response, and ensuing litigation.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "018215f98438f7c319d7bfa96cde964903c6d61b3150b1ebf1c7d473bd95c75b",
+      "source_id": "op:2715663",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "The BIIA granted the Department's motion.",
+      "rationale": "Describes the evidentiary ruling and subsequent BIIA hearing.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "ab11dfe4838c415813442e7044c58e68eb43cd0301e73332bac3a2a560ddb44e",
+      "source_id": "op:2715593",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "The trial evidence established the following facts:",
+      "rationale": "Recounts the assault and related events underlying the convictions.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "0bba18da23ab0d6e74323a63d6483af1a590d7f9883dabcd18d5bd4efe004479",
+      "source_id": "op:2826064",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "affirms",
+      "confidence": 1,
+      "evidence": "Ferguson fails to establish that the fee award was an abuse of discretion.",
+      "rationale": "Concludes Ferguson did not show the fee award was unreasonable.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "2e0f7a6e807197d24bccd23bc5ab4dfa8fb52395c3baa29f805beee29bdba635",
+      "source_id": "op:4308087",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "in part and dismissed the Johnsons’ claims",
+      "rationale": "Reports the trial court’s partial dismissal and related claims.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "4c2e8f60ef84a3db0e71c00693bcbfc1a748e04da466b76f25a9934db9e079a4",
+      "source_id": "op:2722873",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "motion to withdraw on the ground that there is no basis",
+      "rationale": "Recounts counsel’s Anders motion and the appeal.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "0848d389a2e68f310d32072ab9a4cd3eeacb9c5801988daec5ab7cb2f8f695b7",
+      "source_id": "op:9947498",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "juror 16 became juror 3 on the panel.",
+      "rationale": "Recounts jury selection, testimony, verdict, and amended charges.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "a5276635b8a7b84c4e5411791a94fc3dc9b6e5e7512c557fa50fa08a121caf34",
+      "source_id": "op:4697500",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Pagel sold copper pipe to Sutter Metals for $85.15",
+      "rationale": "Describes the alleged burglary and sale of copper pipe.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "748818a3d73b4a33fe0f335e1f28ae4d343983e1b25a8d835f9eb91f83c05676",
+      "source_id": "op:4014987",
+      "label": "STANDARD_OF_REVIEW",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "the initial determination of whether there is legal basis",
+      "rationale": "States the standards for reviewing fee awards and statutory interpretation.",
+      "rejected_alternatives": [
+        "BACKGROUND"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "7ed6d49f583fdbb5eb9808c7e42ff96277732e32609cc79a8eb7f8fca04ffd50",
+      "source_id": "op:4538352",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "unclear",
+      "confidence": 0.75,
+      "evidence": "We hold",
+      "rationale": "States an issue-level conclusion, but the target truncates the holding.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "0bcc44d3c1b3f626f8dcd8d2668e27a6cf6f6c5b5cd62ee6ff3e9c7d7325f283",
+      "source_id": "op:4543327",
+      "label": "ANALYSIS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "concurrent sentences were required",
+      "rationale": "Applies the current-offense rule to the sentencing issue without an explicit final resolution.",
+      "rejected_alternatives": [
+        "HOLDING"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "d379fc0502b8303b2a05462a75222a90244d7e064e88592facd35e132daca357",
+      "source_id": "op:4648553",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Mr. Arnett was arraigned on the methamphetamine charge",
+      "rationale": "Recounts the charge, trial, verdict, sentence, and appeal.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "af0b5c7ee27f5929058456ad664d08e159109d98aa0aa75d38cf8bdbf1579e56",
+      "source_id": "op:10792836",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "In June 2019, Elaster and co-defendant Billy Miller were accused",
+      "rationale": "Recounts the allegations, charging history, and trial events.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "fd972dae69f5af779cda2127528aa90cf798bca72641bf3d208bd6320fdd5c08",
+      "source_id": "op:5125974",
+      "label": "ANALYSIS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "Hatt also argues that his offender score was",
+      "rationale": "Applies offender-score rules to Hatt’s challenge after stating the standard.",
+      "rejected_alternatives": [
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "391eb06fbd9b4b40e41fcb2402ed02b276f8f3d7c5a3f67dcd6e68f9a2a6c80c",
+      "source_id": "op:1039242",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "affirms",
+      "confidence": 1,
+      "evidence": "We affirm and remand for the trial court to remedy",
+      "rationale": "Affirms while remanding for the trial court to correct the remedy.",
+      "rejected_alternatives": [
+        "ORDER"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "57a61ce19e001641b4315e3abc8482af72e6ab57c32a926bfa9a176cd545c958",
+      "source_id": "op:3203753",
+      "label": "ORDER",
+      "speaker": "present_appellate_court",
+      "direction": "reverses",
+      "confidence": 0.75,
+      "evidence": "vacate",
+      "rationale": "Directs partial vacatur and remand to narrow the parenting-plan provision.",
+      "rejected_alternatives": [
+        "HOLDING"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "5eb1f0665a893d3c93d61cc81850bb15ceb9e22f89edb899193b22acce4bbf77",
+      "source_id": "op:3005505",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "On September 14, 2010, Terrek Corbin reported to his community corrections",
+      "rationale": "Describes the people and events surrounding the robbery.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "babf826b9b1f5a21b0aa7ed435e047b202f6102dffd63e8b7502f6e6956a70e8",
+      "source_id": "op:4019826",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "In September 2013, two Washington State Patrol troopers stopped a car",
+      "rationale": "Recounts the traffic stop, search, and evidence of heroin.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "f59d6e2fdcd2e2a29850d2bd540517544da2d89f7b5b7990637187fcfa0bb157",
+      "source_id": "op:4438782",
+      "label": "ANALYSIS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "The Schnarrses first argue that the superior court improperly took judicial notice",
+      "rationale": "Applies appellate-scope rules to the judicial-notice argument.",
+      "rejected_alternatives": [
+        "STANDARD_OF_REVIEW"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "88674bc56424514bcc7bcdadf4f6af10657f6797e68705a1e3979cb4583d622a",
+      "source_id": "op:4181248",
+      "label": "BACKGROUND",
+      "speaker": "cited_precedent",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "This court affirmed summary judgment",
+      "rationale": "Summarizes a cited decision concerning foreseeable and unforeseeable harm.",
+      "rejected_alternatives": [
+        "HOLDING"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "7a1e11f4d8f484cba1f418005650f1a8c98eb291e4dfd8d27f0d987d299cf8a3",
+      "source_id": "op:4672504",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "affirms",
+      "confidence": 1,
+      "evidence": "Any error in the receiver’s calculation was harmless.",
+      "rationale": "Upholds approval of the receiver’s final report and accounting.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "b6160a00ff4884842f11134d377d2898127f6ef8a9899ceb57cc19f69c1b69b0",
+      "source_id": "op:4322308",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "He ran angrily toward Jimenez and struck her multiple times",
+      "rationale": "Recounts the domestic violence events underlying the charges.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "fad4543f7654243811ba38d03f9b19b80f9b9e9b251130d9c9d314436b3246d6",
+      "source_id": "op:4266566",
+      "label": "ANALYSIS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "A defendant has a statutory right of allocution",
+      "rationale": "Explains the allocution rule and applies it to the sentencing sequence.",
+      "rejected_alternatives": [
+        "BACKGROUND"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "251fb4ac31fc3121420cc922f824f30d20fbbecc941ba26c5758ed3403631d30",
+      "source_id": "op:9897958",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "The Department’s violation of the active efforts requirement does not mandate",
+      "rationale": "Finds an active-efforts violation and explains the remedy on remand.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "2898a40875783787f7fec00742ea0acad0250d0dc9bb99fb0450d202ee5bd016",
+      "source_id": "op:4510231",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "accepts",
+      "confidence": 1,
+      "evidence": "we hold that Wagner has standing",
+      "rationale": "Holds Wagner has standing and declines to address unbriefed claims.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "7da6bbe3f8e2d6115159056d45ed80115121444eae002c86b45baefff7ffd51e",
+      "source_id": "op:2735787",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "affirms",
+      "confidence": 1,
+      "evidence": "Because Lee's community custody has expired, the appeal is",
+      "rationale": "Dismisses the appeal as moot and affirms.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "355fae405fedfdef433f1eacd7f48b3992f64ef67ccf4f3e7dced8ad9fb83dd4",
+      "source_id": "op:2759782",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "In March 2003, the parties entered",
+      "rationale": "Describes the development agreement and subsequent property sale process.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "29693e5093784531389ebb14645c4038d9d7e950bd7794586b9c1e54edf08ded",
+      "source_id": "op:4383741",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Robert Ward was shot and killed",
+      "rationale": "Recounts the shooting and events leading to the murder charges.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "6e00a6d79e35df45bda815d1a25fc725753acc734be1bd24435cd0118541c0bb",
+      "source_id": "op:4529494",
+      "label": "STANDARD_OF_REVIEW",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "We review orders on CR 60(b) motions to vacate for an abuse of discretion.",
+      "rationale": "States the review standard and legal framework for CR 60(b)(6) relief.",
+      "rejected_alternatives": [
+        "BACKGROUND"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "3feb283738034598cb4f4b4035d141550548bcd6cb69209a75f559664500c81c",
+      "source_id": "op:2826308",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "reverses",
+      "confidence": 1,
+      "evidence": "We reverse the trial court's vacation of the order of default for child support, as",
+      "rationale": "Reverses the order vacating the child-support default.",
+      "rejected_alternatives": [
+        "ORDER"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "ae391e4597b801da725105d9ced123233344746097eb37823fc2f56ca8b26005",
+      "source_id": "op:4668327",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 0.75,
+      "evidence": "The court entered an order granting Hannan’s motion for summary judgment",
+      "rationale": "Recounts the summary-judgment ruling, appeal, and subsequent events.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "e9c08ca8403e15dccaef5564998a2183204efcafad645dcccd7dd4586683d043",
+      "source_id": "op:4117802",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "As Brant walked past her, he took a sticky note off the shotgun",
+      "rationale": "Recounts the confrontation and alleged assault.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "80eb3d4449d6ebc21a9699b1d645ea84d9fec560c4b0d07240c2ec8289e575e8",
+      "source_id": "op:2803876",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "As part of a global plea agreement, Kevin Robinson pleaded guilty",
+      "rationale": "Summarizes the global plea agreement and convictions at issue.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "bba7fdfb21251f972232ed55e2e3ded14d2886ddd5c51c848171a2a42d576c6f",
+      "source_id": "op:4392231",
+      "label": "HOLDING",
+      "speaker": "present_appellate_court",
+      "direction": "rejects",
+      "confidence": 1,
+      "evidence": "Here, Kelley fails to show that the State’s comment was improper.",
+      "rationale": "Rejects Kelley’s prosecutorial-misconduct claim.",
+      "rejected_alternatives": [
+        "ANALYSIS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "d56f03f4856a1333c05b82abf64d711e25fc386fb541cff9cbdf53193e6420d5",
+      "source_id": "op:1036501",
+      "label": "ORDER",
+      "speaker": "present_appellate_court",
+      "direction": "reverses",
+      "confidence": 0.75,
+      "evidence": "remanded for further proceedings consistent with Andress",
+      "rationale": "States the operative remand following reversal.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "8f6753f7a00e2c84014f2e27e0cacb5631d5150e1b1d43a4c1496364be64409b",
+      "source_id": "op:2750279",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "dependency and is not a party on",
+      "rationale": "Introduces the dependency case and the basis of Dorsch’s appeal.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "706bc105c6d93c640170258766a729aeecf038060807591ea46ab70bf1300107",
+      "source_id": "op:4346757",
+      "label": "PROCEDURAL_HISTORY",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "In October 2016, BZ sued Yates",
+      "rationale": "Recounts the contract dispute and ensuing summary-judgment action.",
+      "rejected_alternatives": [
+        "FACTS"
+      ],
+      "ambiguities": []
+    },
+    {
+      "passage_id": "24945674fd4825a24cd3b6cc828255689e92ed332fd3bd15b37132fa8cdb9272",
+      "source_id": "op:9898447",
+      "label": "FACTS",
+      "speaker": "present_appellate_court",
+      "direction": "none",
+      "confidence": 1,
+      "evidence": "Branch and S.M. met in February 2015",
+      "rationale": "Summarizes the relationship history and abuse allegations.",
+      "rejected_alternatives": [
+        "PROCEDURAL_HISTORY"
+      ],
+      "ambiguities": []
+    }
+  ],
+  "summary": {
+    "per_label": {
+      "HOLDING": {
+        "count": 13,
+        "passage_text_tokens_qwen25": 2519
+      },
+      "ANALYSIS": {
+        "count": 5,
+        "passage_text_tokens_qwen25": 2177
+      },
+      "ORDER": {
+        "count": 2,
+        "passage_text_tokens_qwen25": 61
+      },
+      "FACTS": {
+        "count": 13,
+        "passage_text_tokens_qwen25": 5494
+      },
+      "BACKGROUND": {
+        "count": 2,
+        "passage_text_tokens_qwen25": 350
+      },
+      "PROCEDURAL_HISTORY": {
+        "count": 12,
+        "passage_text_tokens_qwen25": 3853
+      },
+      "STANDARD_OF_REVIEW": {
+        "count": 3,
+        "passage_text_tokens_qwen25": 1319
+      },
+      "OTHER": {
+        "count": 0,
+        "passage_text_tokens_qwen25": 0
+      }
+    },
+    "total_records": 50,
+    "total_passage_text_tokens_qwen25": 15773
+  }
+}
